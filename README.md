@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/vagnerfabricio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://vagner-fabricio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifolio-My%20personal%20portfolio%20web%20?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wagnerfabricio/wagnerfabricio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
